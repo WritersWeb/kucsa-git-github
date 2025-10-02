@@ -1,0 +1,23 @@
+//Configuration commands
+git config --global user.name ""
+git config --global user.email ""
+
+
+//Working commands
+git init
+git status
+git add . / file-name
+git commit -m "commit message"
+git diff
+
+//branching
+git branch ""
+git checkout <branch name>
+git checkout -b <branch name>
+
+
+//connection commands
+git pull
+git clone
+git remote add <name> <github repo>
+
